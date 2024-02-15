@@ -5,7 +5,7 @@
 [![Artur Bomtempo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArturColen&bg_color=0d1117&color=00ced1&line=00ced1&point=00ffff&area=true&area_color=00ced1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArturColen&bg_color=0d1117&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArturColen&theme=algolia&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
