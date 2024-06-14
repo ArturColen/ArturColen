@@ -16,7 +16,8 @@
 <div align="center"> 
 <a href="https://www.instagram.com/artur.bomtempo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff"</a>
 <a href = "mailto:arturbcolen@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://medium.com/@arturbcolen" target="_blank"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" style="border-radius: 30px" target="_blank"></a>
 </div>
 
 <br>
