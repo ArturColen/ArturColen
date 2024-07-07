@@ -46,7 +46,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&labelColor=000&textColor=fff)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=Flask&labelColor=000&textColor=fff)&nbsp;
 
 ### 🗃️ &nbsp;Database
 
