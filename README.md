@@ -44,6 +44,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js&labelColor=000&textColor=fff)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=Express&labelColor=000&textColor=fff)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&labelColor=000&textColor=fff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&labelColor=000)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django&labelColor=000&textColor=fff)&nbsp;
 
