@@ -33,19 +33,19 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,django,typescript,c,cpp,cs,prisma)](https://skillicons.dev)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,python,django,typescript,c,cpp,cs,prisma)](https://github.com/ArturColen)
 
 ### 🎨 &nbsp;Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass)](https://skillicons.dev)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,jquery,bootstrap,sass)](https://github.com/ArturColen)
 
 ### 🗃️ &nbsp;Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase)](https://github.com/ArturColen)
 
 ### 📱 &nbsp;Mobile
 
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)
+[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/ArturColen)
 
 <br>
 
