@@ -33,7 +33,7 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/arturbomtempo-dev)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,maven,php,python,django,typescript,prisma,c,cpp,cs)](https://github.com/arturbomtempo-dev)
 
 ### 🎨 &nbsp;Front-end
 
