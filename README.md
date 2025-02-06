@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=green" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=arturbomtempo-dev&color=67cb57" alt="Profile views" />
 </div>
 
 <br>
